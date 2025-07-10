@@ -151,3 +151,11 @@ with tab2:
     - Pickle (Model Serialization)
     - Matplotlib (Visualisasi)
     """)
+
+# Footer
+st.markdown("""
+    <hr style="border: 1px solid #00FFFF;">
+    <center>
+        <small>🚀 Developed with ❤️ using Streamlit | Create by arielshakaramiro</small>
+    </center>
+""", unsafe_allow_html=True)
