@@ -3,3 +3,4 @@ __pycache__/
 models/
 *.pkl
 *.png
+!regression_plot.png
