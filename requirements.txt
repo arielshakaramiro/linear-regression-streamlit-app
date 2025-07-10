@@ -1,6 +1,6 @@
 streamlit==1.28.0
-numpy==1.24.4
+numpy==1.26.4
 pandas==2.2.2
 matplotlib==3.8.4
 scikit-learn==1.4.1.post1
-pillow==9.4.0
+pillow==9.5.0
